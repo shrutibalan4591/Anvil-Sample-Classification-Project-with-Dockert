@@ -9,7 +9,7 @@ Original file is located at
 
 # WYCXOOC36W22JJSLZYZRGBZK-L33HT7S6SISGMYDS
 
-!pip install anvil-uplink
+# !pip install anvil-uplink
 
 import anvil.server
 
